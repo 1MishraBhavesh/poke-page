@@ -1,0 +1,81 @@
+React Philosopy is everything in your application (app) is made of Components.
+
+Components have properties,props,state.
+
+React native is declarative so it is easy to organise and do complex code.
+
+Props are like
+attributes/properties of a
+component. It can be
+accessed using
+this.props.<propName>.
+Props can be used to pass
+data to a component.
+
+
+States are the different
+states of a component. The
+component can change depending on the current
+state. 
+
+
+For example, a
+component button can have
+a state whether it is pressed
+or not. Depending on that,
+the component can appear
+or do different things.
+
+
+Lifecycle:
+
+Intialisation   :  constructor()
+Mounting: render() componentDidMount() componentWillMount()
+Updating : componentDidUpdate() componentWillUpdate()
+Unmounting:  componentDidUnMount() componentWillUnMount()
+
+
+automatically called above methods
+
+
+import {componnetname} from filename
+export default component name
+
+
+Text,StyleSheet,Image etc.app
+expo-av for audio, firebase
+
+
+
+
+
+
+
+class
+ ---------------------------ternary operator
+             CHECK---->condition===true/false
+ if(condition){
+//true code execute
+ }
+ else {
+   //false code execute
+ }
+
+ {condition}?true:false
+
+ conditional programming
+
+
+ bhawesh alert is not working in 
+
+ 
+
+
+
+
+
+
+
+
+
+
